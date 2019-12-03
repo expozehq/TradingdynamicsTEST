@@ -1,0 +1,2 @@
+# TradingdynamicsTEST
+GitHub Pages
